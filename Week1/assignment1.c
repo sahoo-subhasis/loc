@@ -11,7 +11,7 @@ void main()
         }
         else if(i%5 == 0)
         {
-            printf("Buzz \n");
+            printf("Buz \n");
         }
         else 
         {
